@@ -1,8 +1,3 @@
-lkdfhqwjkfbqw
-evjewcjknewlckn
-qrckljqwekjfnqkw
-qkljfhbqwkdvbj
-lwkejfvjkwenv
 number1 = int(input())
 number2 = int(input())
 number3 = int(input())
